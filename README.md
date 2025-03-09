@@ -5,7 +5,7 @@ Welcome to the repository for my **third and most refined landing page yet**! Bu
 ---
 
 ## 🌐 Live Demo  
-👀 Experience the magic here: [Live Preview](#)  
+👀 Experience the magic here: [Live Preview](https://saurabh123rawat456.github.io/landing-page-3/)  
 
 ---
 
